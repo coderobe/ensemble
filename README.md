@@ -1,6 +1,6 @@
 # Ensemble
 
-A build environment for [choir](https://github.com/coderobe/choir)
+A build environment for [conductor](https://github.com/coderobe/conductor) ([libchoir](https://github.com/coderobe/libchoir))
 
 ## Usage 
 - `make update` -> update build files 
